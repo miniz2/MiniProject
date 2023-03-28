@@ -22,3 +22,6 @@
 <br>
 6. 동물 사망
 <img width="333" alt="사망" src="https://user-images.githubusercontent.com/125417021/228252612-a74ea618-815c-4780-9899-f39217d71774.PNG">
+<br>
+7. 사망 후 로그인 > 다시 랜덤 동물 뽑기
+<img width="382" alt="사망후로그인" src="https://user-images.githubusercontent.com/125417021/228253822-26e6c16b-163e-4667-a3a7-050b39f0865e.PNG">
