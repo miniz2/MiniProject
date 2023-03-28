@@ -5,6 +5,7 @@
 <img width="340" alt="회원가입" src="https://user-images.githubusercontent.com/125417021/228252247-27db6abe-cdd9-4153-9859-50f8c15f864d.PNG">
 <br>
 2. 로그인
+<br>
 - 동물 없을 때: 동물 랜덤 뽑기
 <img width="372" alt="로그인 동물뽑기" src="https://user-images.githubusercontent.com/125417021/228252011-fd223a97-ed79-4f24-9bf8-6602b15b2470.PNG">
 
